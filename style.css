@@ -135,6 +135,7 @@ ul {
   transition: var(--transition);
   text-transform: capitalize;
   display: inline-block;
+  margin-bottom: 84px;
 }
 .btn:hover {
   background: var(--primary-700);
@@ -153,6 +154,6 @@ Jokes
   padding-top: 5rem;
 }
 
-.result {
-  font-size: 1.5rem;
+.joke {
+  font-size: 3rem;
 }
